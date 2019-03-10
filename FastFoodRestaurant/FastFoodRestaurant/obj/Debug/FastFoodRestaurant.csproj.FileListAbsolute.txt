@@ -1,0 +1,12 @@
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe.config
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.exe
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\bin\Debug\FastFoodRestaurant.pdb
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csprojAssemblyReference.cache
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.FistCustomControl.resources
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Form1.resources
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.Properties.Resources.resources
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.GenerateResource.cache
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.exe
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.pdb
+C:\Users\RIYA SHAJI\Desktop\FastFoodRestaurant\FastFoodRestaurant\obj\Debug\FastFoodRestaurant.EatIN.resources
